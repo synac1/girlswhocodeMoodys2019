@@ -1,0 +1,10 @@
+body{
+ background-color: "aqua";
+ background-image: url("llama2.png");
+ background-repeat: no-repeat;
+ color: #43cea2;
+}
+h1{
+  font-family: sans-serif;
+  text-align: center;
+}
